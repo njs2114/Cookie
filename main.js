@@ -44,7 +44,6 @@ function prettify(input){
 };
 
 window.setInterval(function(){
-
 	cookieClick(cursors);
-
+	save();
 }, 1000);
